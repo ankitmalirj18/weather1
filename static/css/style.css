@@ -1,0 +1,48 @@
+
+.city_temp{
+    height: 400px;
+    width: 600px;
+    float: left;
+    
+}
+
+.city{
+    padding-left: 190px;
+    padding-top: 200px;
+    color: white;
+}
+
+.temp{
+    padding-left: 210px;
+    color: white;
+}
+
+.cont{
+    text-align: center;
+    margin-top: 200px;
+    margin-right: 180px;
+    float: right;
+    height: 300px;
+    width: 400px;
+    border-radius: 25px;
+    background-color: rgba(14, 13, 13, 0.5);
+    color: white;
+}
+
+.divl{
+    float: left;
+    height: 360px;
+    width: 160px;
+    margin: 20px;
+}
+
+.divr{
+    float: right;
+    height: 360px;
+    width: 160px;
+    margin: 20px;
+}
+
+form{
+    padding-left: 800px;
+}
